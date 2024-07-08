@@ -18,8 +18,5 @@ I am a 3rd-year B.Tech student with expertise in ReactJS, NextJS, C++, Java, Nod
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rupesh-dev30&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=rupesh-dev30&icon=1&color=8)](https://visitcount.itsvg.in)
