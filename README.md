@@ -66,7 +66,13 @@
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139" alt="Portfolio">
 </p>
 
+  
 <h2 align="center">📊 GitHub Stats:</h2>
+</br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rupesh-dev30&theme=darkhub" alt="trophy">
+</p>
+</br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rupesh-dev30&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
   <br/>
