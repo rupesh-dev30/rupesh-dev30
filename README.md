@@ -1,6 +1,6 @@
 <h1 align="center">💫 RUPESH KUMAR</h1>
 <p align="center">
-  I am a B.Tech student with expertise in <b>ReactJS</b>, <b>NextJS</b>, <b>C++</b>, <b>Java</b>, <b>NodeJS</b>, <b>ExpressJS</b>, and <b>MongoDB</b>. Currently, I am focused on mastering <b>NextJS</b> to further enhance my full-stack development skills. I am passionate about leveraging technology to build innovative solutions and contribute to the open-source community.
+  I am a B.Tech student with expertise in <b>ReactJS</b>, <b>NextJS</b>, <b>React Native</b>, <b>C++</b>, <b>Java</b>, <b>NodeJS</b>, <b>ExpressJS</b>, and <b>MongoDB</b>. Currently, I am focused on mastering <b>NextJS</b> to further enhance my full-stack development skills. I am passionate about leveraging technology to build innovative solutions and contribute to the open-source community.
 </p>
 
 <h2 align="center">🎃 Hacktoberfest 2024 Badge</h2>
