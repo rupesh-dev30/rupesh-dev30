@@ -1,4 +1,4 @@
-# 💫 RUPESH KUMAR  
+# RUPESH KUMAR  
 
 🚀 **Full Stack Developer | Open Source Contributor | Passionate about Next.js & React Native**  
 
@@ -8,8 +8,7 @@ I am a **B.Tech student** with expertise in **React.js, Next.js, React Native, C
 
 ## 🎯 Portfolio  
 
-🌐 **Check out my portfolio:**  
-👉 **[rupesh-lemon.vercel.app](https://rupesh-lemon.vercel.app/)**    
+🌐 **Check out my portfolio: [rupesh-lemon.vercel.app](https://rupesh-lemon.vercel.app/)**    
 
 ---
 
@@ -51,11 +50,11 @@ I participated in **Hacktoberfest 2024** and earned this badge! 🏅
 
 ## 🚀 Projects  
 
-### 📌 [DevForum](https://github.com/yourusername/devforum)  
+### 📌 [DevForum](https://github.com/rupesh-dev30/DevForum)
 A **developer Q&A platform** inspired by **Stack Overflow**, built with **Next.js, MongoDB, and TinyMCE**.  
 🔹 Features: Authentication with Clerk, markdown-rich editor, question filtering, real-time updates  
 
-### 📌 [Mess Management System](https://github.com/yourusername/mess-management)  
+### 📌 [Mess Management System](https://github.com/rupesh-dev30/Mess-Management)  
 A **React Native app for school canteens**, designed for students and mess admins.  
 🔹 Features: Menu management, order placement, live order tracking  
 
@@ -63,11 +62,9 @@ A **React Native app for school canteens**, designed for students and mess admin
 
 ## 📚 Programming  
 
-### 🚀 LeetCode  
-🔗 **[My LeetCode Profile](https://leetcode.com/rupesh30/)**  
+### 🚀 LeetCode  **[My LeetCode Profile](https://leetcode.com/rupesh30/)**  
 
-### 💡 GeeksforGeeks  
-🔗 **[My GFG Profile](https://auth.geeksforgeeks.org/user/rupesh__kumar/)**  
+### 💡 GeeksforGeeks  **[My GFG Profile](https://auth.geeksforgeeks.org/user/rupesh__kumar/)**  
 
 ---
 
