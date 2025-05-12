@@ -1,6 +1,6 @@
 # RUPESH KUMAR  
 
-🚀 **Full Stack Developer | Open Source Contributor | Passionate about Next.js & React Native**  
+🚀 **Aspiring Full Stack Developer | Open Source Contributor | Passionate about Next.js & React Native**  
 
 I am a **B.Tech student** with expertise in **React.js, Next.js, React Native, C++, Java, Node.js, Express.js, and MongoDB**. Currently, I am focused on mastering **Next.js** to enhance my full-stack development skills. Passionate about building scalable applications, contributing to open-source, and leveraging technology for impactful solutions.  
 
