@@ -2,7 +2,9 @@
 
 🚀 **Aspiring Full Stack Developer | Open Source Contributor | Passionate about Next.js & React Native**  
 
-I am a **B.Tech student** with expertise in **React.js, Next.js, React Native, C++, Java, Node.js, Express.js, and MongoDB**. Currently, I am focused on mastering **Next.js** to enhance my full-stack development skills. Passionate about building scalable applications, contributing to open-source, and leveraging technology for impactful solutions.  
+I am a **B.Tech** student with expertise in **React.js, Next.js, React Native, C++, Java, Node.js, Express.js, and MongoDB**. Passionate about building scalable and efficient applications, contributing to open-source projects, and using technology to create meaningful solutions.
+
+Currently **seeking Software Engineer or Full-Stack Developer** opportunities where I can contribute to impactful projects, continue learning, and grow alongside a collaborative and innovative team. If you know of any suitable opportunities, feel free to reach out!  
 
 ---
 
