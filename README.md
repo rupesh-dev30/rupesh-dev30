@@ -16,7 +16,6 @@
 
 <p align="center">Thrilled to be part of the open-source community and make valuable contributions. 🌍💻</p>
 
-<p align="center">Currently seeking full time roles and doing freelancing for startups🌍💻</p>
 <br>
 
 <h2 align="center">🛠️ My Tech Stack 🛠️</h2>
