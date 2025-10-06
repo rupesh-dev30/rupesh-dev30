@@ -69,6 +69,26 @@
   💡 <i>"Embracing challenges and growing with the open-source community!"</i> 💡
 </p>
 
+<br>
+
+<h2 align="center">💻 DSA Pattern Sheet — Your Smart Revision Buddy</h2>
+<p align="center">
+  Still struggling to stay consistent with DSA? 🤔 <br>
+  Don’t worry — here’s a complete <b>60-pattern DSA Sheet</b> designed to help you <b>revise smartly</b> and <b>track progress</b> as you go.
+</p>
+
+<p align="center">
+  This sheet doesn’t guarantee a FAANG offer 😉 — but if you have <b>limited time</b> and want to <b>revise pattern-wise</b> or <b>boost problem-solving speed</b>, this is your go-to resource!
+</p>
+
+<p align="center">
+  🚀 <a href="https://dsa-sheet-one.vercel.app/" target="_blank"><b>Visit the DSA Pattern Tracker</b></a>
+</p>
+
+<p align="center">
+  <em>🧩 60 patterns • 300 questions • Progress tracking saved in browser</em>
+</p>
+
 ---
 <p align="center">
   🔥 <b>Let’s build something amazing together!</b>
