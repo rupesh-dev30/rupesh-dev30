@@ -1,5 +1,5 @@
 <p align="center" style="margin-bottom: 0;">
-  <img src="https://iili.io/JU1Yhg4.gif" alt="Animated Developer Banner" height="400" width="600"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
 </p>
 <p align="center" style="margin-top: 0;">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=62dafc&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There+!+;+I'm+Rupesh+Kumar;" alt="Typing Text" />
