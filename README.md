@@ -100,7 +100,7 @@
 </p>
 
 <p align="center">
-  🚀 <a href="https://dsa-sheet-one.vercel.app/" target="_blank"><b>Open the DSA Pattern Tracker</b></a>
+  🚀 <a href="https://rupesh-dsa-sheet.netlify.app/" target="_blank"><b>Open the DSA Pattern Tracker</b></a>
 </p>
 
 <p align="center">
