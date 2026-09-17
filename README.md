@@ -92,7 +92,7 @@
 <br>
 
 <!-- DSA SHEET -->
-<h2 align="center">💻 DSA Pattern Sheet — Smart Revision Tracker</h2>
+<h2 align="center">💻 DSA Pattern Sheet - Smart Revision Tracker</h2>
 
 <p align="center">
   Struggling to stay consistent with DSA?  
