@@ -17,7 +17,7 @@
 <br>
 
 <!-- OMEGLE PROJECT -->
-<h2 align="center">🎥 Just Launched — Real-Time Omegle-like Platform</h2>
+<h2 align="center">🎥 Just Launched - Real-Time Omegle-like Platform</h2>
 
 <p align="center">
   I recently built a <b>real-time random video + chat matching platform</b>, similar to <b>Omegle</b>.  
